@@ -1,0 +1,2 @@
+# awesome-ckeditor
+Awesome CKEditor ✨
