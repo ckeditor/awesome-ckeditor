@@ -79,6 +79,7 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [How to Create a Rich Text Editor in Angular: Step-by-Step](https://ckeditor.com/blog/how-to-create-a-rich-text-editor-in-angular/)
 - [What are Merge Fields? Usage and Key Benefits](https://ckeditor.com/blog/merge-fields-usage-key-benefits/)
 - [How to Set Up a Custom Text Editor in 5 Minutes with CKEditor 5 Builder](https://ckeditor.com/blog/custom-text-editor-setup-using-ckeditor-5-builder/)
+- [Supercharge Drupal Content Creation: 12 Free CKEditor Plugins](https://dev.acquia.com/blog/supercharge-drupal-content-creation-12-free-ckeditor-plugins)
 
 <a name="videos" />
 
