@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ckeditor/awesome-ckeditor) [![Twitter Follow](https://img.shields.io/twitter/follow/ckeditor?style=social)](https://twitter.com/ckeditor) [![LinkedIn](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f6cd62c/imgs/linkedin.svg)](https://www.linkedin.com/company/ckeditor)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ckeditor/awesome-ckeditor) [![Twitter Follow](https://img.shields.io/twitter/follow/ckeditor?style=social)](https://twitter.com/ckeditor) [![LinkedIn](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f6cd62c/imgs/linkedin.svg)](https://www.linkedin.com/company/ckeditor) [![Star](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social)](https://github.com/ckeditor/ckeditor5)
 
 # Awesome CKEditor
 
