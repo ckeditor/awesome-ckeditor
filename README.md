@@ -8,6 +8,8 @@ A curated list of awesome projects and resources related to [CKEditor](https://g
 
 This list is maintained and sponsored by [CKSource](https://cksource.com/), the creators and core maintainers of CKEditor.
 
+📬 You can contribute to this list too! Please read the [Contributing Guidelines](https://github.com/ckeditor/awesome-ckeditor/blob/main/CONTRIBUTING.md) for a short instruction.
+
 ## What is CKEditor?
 
 CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom data model, and virtual DOM, written from scratch in TypeScript with excellent support for modern bundlers. It provides every type of WYSIWYG editing solution imaginable with extensive collaboration support. From editors similar to Google Docs and Medium to Slack or Twitter-like applications, all is possible within a single editing component.
