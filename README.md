@@ -56,6 +56,7 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
     - [CKEditor 5 Premium features module](https://www.drupal.org/project/ckeditor5_premium_features)
 
 ### Community-maintained
+- [Phoenix / Elixir](https://github.com/Mati365/ckeditor5-phoenix)
 - [Ruby on Rails](https://github.com/Mati365/ckeditor5-rails)
 - [Typo3](https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/Introduction/Index.html#what-does-it-do)
 - [Redaxo CMS](https://github.com/FriendsOfREDAXO/cke5)
