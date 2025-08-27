@@ -84,10 +84,12 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [How to Set Up a Custom Text Editor in 5 Minutes with CKEditor 5 Builder](https://ckeditor.com/blog/custom-text-editor-setup-using-ckeditor-5-builder/)
 - [Supercharge Drupal Content Creation: 12 Free CKEditor Plugins](https://dev.acquia.com/blog/supercharge-drupal-content-creation-12-free-ckeditor-plugins)
 - How We Made our Rich Text Editor Load Faster - [Part 1](https://ckeditor.com/blog/how-we-made-our-rich-text-editor-load-faster-part-1/) and [Part 2](https://ckeditor.com/blog/how-we-made-our-rich-text-editor-load-faster-part-2/)
+- [How we made CKEditor 40% Smaller: A Deep Dive into Bundle Size Optimization](https://ckeditor.com/blog/how-we-reduced-ckeditor-bundle-size/)
 
 <a name="videos" />
 
 ## Videos
+
 - [How To Build A Custom Invoice Generator with CKEditor 5: Step-By-Step Guide](https://www.youtube.com/watch?v=DqoVSDmvP-s)
 - [Building Google Docs clone with Python, JavaScript, CKEditor, Google Login, and more](https://www.youtube.com/watch?v=OGCE3OUO4G8)
 - [Using CKEditor in Drupal CMS, general guide](https://www.youtube.com/watch?v=0V_AW5ihu8o&t=443s)
