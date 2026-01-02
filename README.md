@@ -1,14 +1,21 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ckeditor/awesome-ckeditor) [![Twitter Follow](https://img.shields.io/twitter/follow/ckeditor?style=social)](https://twitter.com/ckeditor) [![LinkedIn](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f6cd62c/imgs/linkedin.svg)](https://www.linkedin.com/company/ckeditor) [![Star](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social)](https://github.com/ckeditor/ckeditor5)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ckeditor/awesome-ckeditor)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ckeditor?style=social)](https://twitter.com/ckeditor)
+[![LinkedIn](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f6cd62c/imgs/linkedin.svg)](https://www.linkedin.com/company/ckeditor)
+[![Star](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social)](https://github.com/ckeditor/ckeditor5)
 
 # Awesome CKEditor
 
 A curated list of awesome projects and resources related to [CKEditor](https://github.com/ckeditor/ckeditor5), an open source rich text editing component.
 
-<img align="center" src="ckeditor_logo.png" alt="CKEditor logo" width="30%" height="30%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ckeditor_logo_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ckeditor_logo.png">
+  <img alt="CKEditor logo" src="./assets/ckeditor_logo.png"  width="30%" height="30%">
+</picture>
 
 This list is maintained and sponsored by [CKSource](https://cksource.com/), the creators and core maintainers of CKEditor.
 
-📬 You can contribute to this list too! Please read the [Contributing Guidelines](https://github.com/ckeditor/awesome-ckeditor/blob/main/CONTRIBUTING.md) for a short instruction.
+📬 You can contribute to this list too! Please read the [Contributing Guidelines](./CONTRIBUTING.md) for a short instruction.
 
 ## What is CKEditor?
 
@@ -18,8 +25,13 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 
 <!-- MarkdownTOC depth=4 -->
 
+- [Awesome CKEditor](#awesome-ckeditor)
+  - [What is CKEditor?](#what-is-ckeditor)
+  - [Table of Contents](#table-of-contents)
   - [Documentation](#documentation)
   - [Integrations](#integrations)
+    - [Officially-maintained](#officially-maintained)
+    - [Community-maintained](#community-maintained)
   - [Developer tools](#developer-tools)
   - [Blog posts](#blog-posts)
   - [Videos](#videos)
@@ -40,6 +52,7 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 ## Integrations
 
 ### Officially-maintained
+
 - [React](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/react/react-default-npm.html)
 - [Next.js](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/next-js.html)
 - [Angular](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/angular.html)
@@ -52,14 +65,16 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [.NET](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/dotnet.html)
 - [Salesforce](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/salesforce.html)
 - [Drupal](https://ckeditor.com/drupal)
-    - [CKEditor 5 Free plugin pack module](https://www.drupal.org/project/ckeditor5_plugin_pack)
-    - [CKEditor 5 Premium features module](https://www.drupal.org/project/ckeditor5_premium_features)
+  - [CKEditor 5 Free plugin pack module](https://www.drupal.org/project/ckeditor5_plugin_pack)
+  - [CKEditor 5 Premium features module](https://www.drupal.org/project/ckeditor5_premium_features)
 
 ### Community-maintained
+
 - [Phoenix / Elixir](https://github.com/Mati365/ckeditor5-phoenix)
 - [Livewire / PHP](https://github.com/Mati365/ckeditor5-livewire)
 - [Ruby on Rails](https://github.com/Mati365/ckeditor5-rails)
-- [Typo3](https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/Introduction/Index.html#what-does-it-do)
+- [TYPO3](https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/Introduction/Index.html#what-does-it-do)
+  - [TYPO3 CKEditor Pack](https://extensions.typo3.org/extension/rte_ckeditor_pack)
 - [Redaxo CMS](https://github.com/FriendsOfREDAXO/cke5)
 - [Django CMS](https://github.com/django-cms/djangocms-text-ckeditor5)
 - [Django](https://github.com/hvlads/django-ckeditor-5)
@@ -102,7 +117,6 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [Using CKEditor 5 in Symfony 7 🇫🇷](https://www.youtube.com/watch?v=Qwubyuogcz0)
 - [CKEditor 5 image upload integration in Symfony 🇫🇷](https://www.youtube.com/watch?v=jUUGsCBwIJk)
 - [Using CKEditor 5 in Laravel + medical history app 🇪🇸](https://www.youtube.com/watch?v=4qNvgwS8I9A)
-- [Using CKEditor in Drupal CMS, general guide](https://www.youtube.com/watch?v=0V_AW5ihu8o&t=443s) 
 - [Case study in developing a custom CKEditor 5 Link plugin in Drupal](https://www.youtube.com/watch?v=_qeU7AN6zhI)
 
 <a name="community-plugins" />
