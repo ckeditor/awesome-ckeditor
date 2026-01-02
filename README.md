@@ -110,7 +110,6 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [Using CKEditor 5 in Symfony 7 🇫🇷](https://www.youtube.com/watch?v=Qwubyuogcz0)
 - [CKEditor 5 image upload integration in Symfony 🇫🇷](https://www.youtube.com/watch?v=jUUGsCBwIJk)
 - [Using CKEditor 5 in Laravel + medical history app 🇪🇸](https://www.youtube.com/watch?v=4qNvgwS8I9A)
-- [Using CKEditor in Drupal CMS, general guide](https://www.youtube.com/watch?v=0V_AW5ihu8o&t=443s)
 - [Case study in developing a custom CKEditor 5 Link plugin in Drupal](https://www.youtube.com/watch?v=_qeU7AN6zhI)
 
 <a name="community-plugins" />
