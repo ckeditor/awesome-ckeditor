@@ -18,8 +18,13 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 
 <!-- MarkdownTOC depth=4 -->
 
+- [Awesome CKEditor](#awesome-ckeditor)
+  - [What is CKEditor?](#what-is-ckeditor)
+  - [Table of Contents](#table-of-contents)
   - [Documentation](#documentation)
   - [Integrations](#integrations)
+    - [Officially-maintained](#officially-maintained)
+    - [Community-maintained](#community-maintained)
   - [Developer tools](#developer-tools)
   - [Blog posts](#blog-posts)
   - [Videos](#videos)
@@ -40,6 +45,7 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 ## Integrations
 
 ### Officially-maintained
+
 - [React](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/react/react-default-npm.html)
 - [Next.js](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/next-js.html)
 - [Angular](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/angular.html)
@@ -52,10 +58,11 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [.NET](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/dotnet.html)
 - [Salesforce](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/salesforce.html)
 - [Drupal](https://ckeditor.com/drupal)
-    - [CKEditor 5 Free plugin pack module](https://www.drupal.org/project/ckeditor5_plugin_pack)
-    - [CKEditor 5 Premium features module](https://www.drupal.org/project/ckeditor5_premium_features)
+  - [CKEditor 5 Free plugin pack module](https://www.drupal.org/project/ckeditor5_plugin_pack)
+  - [CKEditor 5 Premium features module](https://www.drupal.org/project/ckeditor5_premium_features)
 
 ### Community-maintained
+
 - [Phoenix / Elixir](https://github.com/Mati365/ckeditor5-phoenix)
 - [Livewire / PHP](https://github.com/Mati365/ckeditor5-livewire)
 - [Ruby on Rails](https://github.com/Mati365/ckeditor5-rails)
@@ -102,7 +109,7 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [Using CKEditor 5 in Symfony 7 🇫🇷](https://www.youtube.com/watch?v=Qwubyuogcz0)
 - [CKEditor 5 image upload integration in Symfony 🇫🇷](https://www.youtube.com/watch?v=jUUGsCBwIJk)
 - [Using CKEditor 5 in Laravel + medical history app 🇪🇸](https://www.youtube.com/watch?v=4qNvgwS8I9A)
-- [Using CKEditor in Drupal CMS, general guide](https://www.youtube.com/watch?v=0V_AW5ihu8o&t=443s) 
+- [Using CKEditor in Drupal CMS, general guide](https://www.youtube.com/watch?v=0V_AW5ihu8o&t=443s)
 - [Case study in developing a custom CKEditor 5 Link plugin in Drupal](https://www.youtube.com/watch?v=_qeU7AN6zhI)
 
 <a name="community-plugins" />
