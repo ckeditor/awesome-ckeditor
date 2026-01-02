@@ -7,7 +7,11 @@
 
 A curated list of awesome projects and resources related to [CKEditor](https://github.com/ckeditor/ckeditor5), an open source rich text editing component.
 
-<img align="center" src="ckeditor_logo.png" alt="CKEditor logo" width="30%" height="30%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ckeditor_logo_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ckeditor_logo.png">
+  <img alt="CKEditor logo" src="./assets/ckeditor_logo.png"  width="30%" height="30%">
+</picture>
 
 This list is maintained and sponsored by [CKSource](https://cksource.com/), the creators and core maintainers of CKEditor.
 
