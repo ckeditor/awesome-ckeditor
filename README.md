@@ -8,7 +8,7 @@ A curated list of awesome projects and resources related to [CKEditor](https://g
 
 This list is maintained and sponsored by [CKSource](https://cksource.com/), the creators and core maintainers of CKEditor.
 
-📬 You can contribute to this list too! Please read the [Contributing Guidelines](https://github.com/ckeditor/awesome-ckeditor/blob/main/CONTRIBUTING.md) for a short instruction.
+📬 You can contribute to this list too! Please read the [Contributing Guidelines](./CONTRIBUTING.md) for a short instruction.
 
 ## What is CKEditor?
 
