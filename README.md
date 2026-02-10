@@ -69,7 +69,7 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [CKEditor AI](https://github.com/ckeditor/devrel-ckeditor-ai-showcase-react) - React app demonstrating AI feature configuration and customization.
 - [Advanced CKEditor features](https://github.com/ckeditor/devrel-mlh-workshops-aug-2025) - Workshop project demonstrating custom plugins and template functionality.
 - [CKEditor Official Tutorials](https://github.com/ckeditor/ckeditor5-tutorials-examples) - Official tutorials sources.
-- [Plotly.js](https://github.com/Simply007/ckeditor5-plotly-widget-showcase) - Plotly.js chart library demo persisting data in the editor content and rendering charts as a widget.
+- [Plotly.js](https://github.com/Simply007/ckeditor5-plotly-widget-showcase) - Chart library demo persisting data in the editor content and rendering charts as a CKEditor widgets.
 
 ## Guides
 
