@@ -27,9 +27,18 @@ You will need a [GitHub account](https://github.com/join)! If you are new to Git
 5. Say why you're proposing the changes, and then click on "Propose file change".
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
+## Integration vs. Plugin
+
+If you are not sure which section to use, the basic principal is:
+
+- Integration - You integrate CKEditor to the list item.
+- Plugins - You extend CKEditor via [Plugin API](https://ckeditor.com/docs/ckeditor5/latest/framework/architecture/plugins.html)
+- Developer tools - You use them to develop CKEditor plugins and integrations.
+- Showcases - You use them to showcase/demo and CKEditor is in it.
+
 ## Updating your Pull Request
 
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
+Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-\* list guidelines.
 
 [This write up](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) explains on how to change a Pull Request and the different ways you can do that.
 

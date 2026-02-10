@@ -17,8 +17,8 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 ## Contents <!-- omit from toc -->
 
 - [Integrations](#integrations)
-- [Developer tools](#developer-tools)
 - [Plugins](#plugins)
+- [Developer tools](#developer-tools)
 - [Showcases](#showcases)
 - [Licensing](#licensing)
 
@@ -45,12 +45,6 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [Laravel Nova](https://github.com/mostafaznv/nova-ckeditor) - CKEditor field with enhanced media management for Laravel Nova.
 - [Vaadin Flow Java](https://github.com/wontlost-ltd/vaadin-litelement-ckeditor) - CKEditor integration for Vaadin Flow Java web applications.
 
-## Developer tools
-
-- [CKEditor Builder](https://ckeditor.com/ckeditor-5/builder/) - Online tool to configure and generate custom CKEditor builds.
-- [CKEditor Package Generator](https://ckeditor.com/docs/ckeditor5/latest/framework/develpment-tools/package-generator/using-package-generator.html) - CLI tool for scaffolding CKEditor plugin packages.
-- [CKEditor Inspector](https://ckeditor.com/docs/ckeditor5/latest/framework/develpment-tools/inspector.html) - Browser DevTools extension for debugging CKEditor internals.
-
 ## Plugins
 
 - [Mermaid](https://github.com/ckeditor/ckeditor5-mermaid) - Plugin for embedding and displaying Mermaid diagrams.
@@ -59,6 +53,12 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [AI agent](https://github.com/dxpr/ckeditor5-ai-agent) - Plugin for integrating AI-assisted text generation using various models.
 - [Line height](https://github.com/rickx81/ckeditor5-line-height) - Plugin for adjusting text line spacing in the editor.
 - [Video uploader](https://github.com/alikhosravidev/ckeditor5-video-uploader) - Plugin for uploading and embedding videos directly in the editor.
+
+## Developer tools
+
+- [CKEditor Builder](https://ckeditor.com/ckeditor-5/builder/) - Online tool to configure and generate custom CKEditor builds.
+- [CKEditor Package Generator](https://ckeditor.com/docs/ckeditor5/latest/framework/develpment-tools/package-generator/using-package-generator.html) - CLI tool for scaffolding CKEditor plugin packages.
+- [CKEditor Inspector](https://ckeditor.com/docs/ckeditor5/latest/framework/develpment-tools/inspector.html) - Browser DevTools extension for debugging CKEditor internals.
 
 ## Showcases
 
@@ -74,4 +74,4 @@ Released under the [CC0 1.0 Universal](LICENSE) license.
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTIONS.md) first.
