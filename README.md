@@ -1,118 +1,94 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ckeditor/awesome-ckeditor) [![Twitter Follow](https://img.shields.io/twitter/follow/ckeditor?style=social)](https://twitter.com/ckeditor) [![LinkedIn](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f6cd62c/imgs/linkedin.svg)](https://www.linkedin.com/company/ckeditor) [![Star](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social)](https://github.com/ckeditor/ckeditor5)
+# Awesome CKEditor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome CKEditor
+[![Star CKEditor](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social)](https://github.com/ckeditor/ckeditor5)
+[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?logo=youtube)](https://www.youtube.com/c/CKEditor)
+[![LinkedIn](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f6cd62c/imgs/linkedin.svg)](https://www.linkedin.com/company/ckeditor)
 
-A curated list of awesome projects and resources related to [CKEditor](https://github.com/ckeditor/ckeditor5), an open source rich text editing component.
+> A curated list of awesome projects and resources related to [CKEditor](https://ckeditor.com), an open source rich text editing component.
 
-<img align="center" src="ckeditor_logo.png" alt="CKEditor logo" width="30%" height="30%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ckeditor_logo_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ckeditor_logo.png">
+  <img alt="CKEditor logo" src="./assets/ckeditor_logo.png" align="right" width="30%" height="30%">
+</picture>
 
-This list is maintained and sponsored by [CKSource](https://cksource.com/), the creators and core maintainers of CKEditor.
+CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom data model, and virtual DOM, written from scratch in TypeScript with support for modern bundlers. It provides every type of WYSIWYG editing solution imaginable with extensive collaboration support. From editors similar to Google Docs and Medium to Slack or Twitter-like applications, all is possible within a single editing component.
 
-📬 You can contribute to this list too! Please read the [Contributing Guidelines](https://github.com/ckeditor/awesome-ckeditor/blob/main/CONTRIBUTING.md) for a short instruction.
+## Contents <!-- omit from toc -->
 
-## What is CKEditor?
+- [Integrations](#integrations)
+- [Plugins](#plugins)
+- [Developer tools](#developer-tools)
+- [Showcases](#showcases)
+- [Guides](#guides)
+- [Licensing](#licensing)
 
-CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom data model, and virtual DOM, written from scratch in TypeScript with excellent support for modern bundlers. It provides every type of WYSIWYG editing solution imaginable with extensive collaboration support. From editors similar to Google Docs and Medium to Slack or Twitter-like applications, all is possible within a single editing component.
-
-## Table of Contents
-
-<!-- MarkdownTOC depth=4 -->
-
-  - [Documentation](#documentation)
-  - [Integrations](#integrations)
-  - [Developer tools](#developer-tools)
-  - [Blog posts](#blog-posts)
-  - [Videos](#videos)
-  - [Community plugins](#community-plugins)
-
-<!-- /MarkdownTOC -->
-
-<a name="documentation" />
-
-## Documentation
-
-- [Getting started](https://ckeditor.com/docs/ckeditor5/latest/getting-started/index.html)
-- [List of officially supported features](https://ckeditor.com/docs/ckeditor5/latest/features/index.html)
-- [CKEditor 5 Framework](https://ckeditor.com/docs/ckeditor5/latest/framework/index.html)
-
-<a name="integrations" />
+---
 
 ## Integrations
 
-### Officially-maintained
-- [React](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/react/react-default-npm.html)
-- [Next.js](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/next-js.html)
-- [Angular](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/angular.html)
-- [Vue 3](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/vuejs-v3.html)
-- [Vue 2](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/vuejs-v2.html)
-- [Nuxt](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/nuxt.html)
-- [Svelte](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/svelte.html)
-- [Strapi](https://market.strapi.io/plugins/@ckeditor-strapi-plugin-ckeditor)
-- [Laravel](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/laravel.html)
-- [.NET](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/dotnet.html)
-- [Salesforce](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/salesforce.html)
-- [Drupal](https://ckeditor.com/drupal)
-    - [CKEditor 5 Free plugin pack module](https://www.drupal.org/project/ckeditor5_plugin_pack)
-    - [CKEditor 5 Premium features module](https://www.drupal.org/project/ckeditor5_premium_features)
+- [React](https://github.com/ckeditor/ckeditor5-react) - Official CKEditor rich text editor component for React.
+- [Angular](https://github.com/ckeditor/ckeditor5-angular) - Official CKEditor rich text editor component for Angular.
+- [Vue.js](https://github.com/ckeditor/ckeditor5-vue) - Official CKEditor rich text editor component for Vue.js.
+- [Drupal](https://ckeditor.com/drupal) - Official CKEditor integration for the Drupal content management system.
+  - [CKEditor Free plugin pack module](https://www.drupal.org/project/ckeditor5_plugin_pack) - Official set of free plugins adding emoji, find-and-replace, fonts, and more to Drupal.
+  - [CKEditor Premium features module](https://www.drupal.org/project/ckeditor5_premium_features) - Integration of official Premium plugins into Drupal.
+- [TYPO3](https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/Introduction/Index.html#what-does-it-do) - Official rich text editor integration for the TYPO3 CMS backend and frontend.
+  - [TYPO3 CKEditor Pack](https://extensions.typo3.org/extension/rte_ckeditor_pack) - Extension providing a modern CKEditor build with accessibility tools and AI assistance.
+- [Strapi](https://market.strapi.io/plugins/@ckeditor-strapi-plugin-ckeditor) - Official plugin for the Strapi headless CMS.
+- [Phoenix / Elixir](https://github.com/Mati365/ckeditor5-phoenix) - CKEditor integration for Phoenix and LiveView applications.
+- [Livewire / PHP](https://github.com/Mati365/ckeditor5-livewire) - Lightweight CKEditor integration for Laravel Livewire components.
+- [Ruby on Rails](https://github.com/Mati365/ckeditor5-rails) - Ruby gem for integrating CKEditor into Rails applications via web components.
+- [Redaxo CMS](https://github.com/FriendsOfREDAXO/cke5) - CKEditor integration with customizable profiles and media management for Redaxo.
+- [Django CMS](https://github.com/django-cms/djangocms-text-ckeditor5) - CKEditor rich text editor frontend for the djangocms-text package.
+- [Django](https://github.com/hvlads/django-ckeditor-5) - CKEditor form field and widget for Django applications.
+- [Cosmos CMS](https://github.com/MoonriseSoftwareCalifornia/CosmosCMS) - Open source .NET content management system built for Microsoft Azure.
+- [Laravel Nova](https://github.com/mostafaznv/nova-ckeditor) - CKEditor field with enhanced media management for Laravel Nova.
+- [Vaadin Flow Java](https://github.com/wontlost-ltd/vaadin-litelement-ckeditor) - CKEditor integration for Vaadin Flow Java web applications.
 
-### Community-maintained
-- [Phoenix / Elixir](https://github.com/Mati365/ckeditor5-phoenix)
-- [Livewire / PHP](https://github.com/Mati365/ckeditor5-livewire)
-- [Symfony / PHP](https://github.com/Mati365/ckeditor5-symfony)
-- [Ruby on Rails](https://github.com/Mati365/ckeditor5-rails)
-- [Typo3](https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/Introduction/Index.html#what-does-it-do)
-- [Redaxo CMS](https://github.com/FriendsOfREDAXO/cke5)
-- [Django CMS](https://github.com/django-cms/djangocms-text-ckeditor5)
-- [Django](https://github.com/hvlads/django-ckeditor-5)
-- [Cosmos CMS](https://github.com/MoonriseSoftwareCalifornia/CosmosCMS)
-- [Laravel Nova](https://github.com/mostafaznv/nova-ckeditor)
-- [Vaadin Flow Java](https://github.com/wontlost-ltd/vaadin-litelement-ckeditor)
+## Plugins
 
-<a name="developer-tools" />
+- [Mermaid](https://github.com/ckeditor/ckeditor5-mermaid) - Plugin for embedding and displaying Mermaid diagrams.
+- [CKEditor footnotes](https://www.npmjs.com/package/ckeditor5-footnotes) - Plugin for adding footnote references and content to documents.
+- [Math equations](https://github.com/isaul32/ckeditor5-math) - TeX-based plugin for inserting mathematical equations via MathJax or KaTeX.
+- [AI agent](https://github.com/dxpr/ckeditor5-ai-agent) - Plugin for integrating AI-assisted text generation using various models.
+- [Line height](https://github.com/rickx81/ckeditor5-line-height) - Plugin for adjusting text line spacing in the editor.
+- [Video uploader](https://github.com/alikhosravidev/ckeditor5-video-uploader) - Plugin for uploading and embedding videos directly in the editor.
 
 ## Developer tools
 
-- [CKEditor 5 Builder](https://ckeditor.com/ckeditor-5/builder/)
-- [CKEditor 5 Package Generator](https://ckeditor.com/docs/ckeditor5/latest/framework/develpment-tools/package-generator/using-package-generator.html)
-- [CKEditor 5 Inspector](https://ckeditor.com/docs/ckeditor5/latest/framework/develpment-tools/inspector.html)
+- [CKEditor Builder](https://ckeditor.com/ckeditor-5/builder/) - Online tool to configure and generate custom CKEditor builds.
+- [CKEditor Package Generator](https://ckeditor.com/docs/ckeditor5/latest/framework/develpment-tools/package-generator/using-package-generator.html) - CLI tool for scaffolding CKEditor plugin packages.
+- [CKEditor Inspector](https://ckeditor.com/docs/ckeditor5/latest/framework/develpment-tools/inspector.html) - Browser DevTools extension for debugging CKEditor internals.
 
-<a name="blog-posts" />
+## Showcases
 
-## Blog posts
+- [CKEditor Official demos](https://github.com/ckeditor/ckeditor5-demos) - Official demos sources.
+- [CKEditor Collaboration Features Decomposed](https://github.com/ckeditor/devrel-collaboration-features-decomposed) - Demo showing iterative implementation of comments, track changes, and real-time editing.
+- [CKEditor Collaboration Samples](https://github.com/ckeditor/ckeditor5-collaboration-samples) - A collection of various configurations of the collaborations features in various frameworks.
+- [CKEditor AI Configuration and Customization Demo](https://github.com/ckeditor/devrel-ckeditor-ai-showcase-react) - React app demonstrating AI feature configuration and customization.
+- [Advanced CKEditor features Showcase](https://github.com/ckeditor/devrel-mlh-workshops-aug-2025) - Workshop project demonstrating custom plugins and template functionality.
+- [CKEditor Official Tutorials](https://github.com/ckeditor/ckeditor5-tutorials-examples) - Official tutorials sources.
 
-- [How to Build a Google Docs Clone with CKEditor 5 and Vue.js](https://ckeditor.com/blog/how-to-build-google-docs-clone-with-ckeditor-5-and-vuejs/)
-- [How to Create a Rich Text Editor in Angular: Step-by-Step](https://ckeditor.com/blog/how-to-create-a-rich-text-editor-in-angular/)
-- [What are Merge Fields? Usage and Key Benefits](https://ckeditor.com/blog/merge-fields-usage-key-benefits/)
-- [How to Set Up a Custom Text Editor in 5 Minutes with CKEditor 5 Builder](https://ckeditor.com/blog/custom-text-editor-setup-using-ckeditor-5-builder/)
-- [Supercharge Drupal Content Creation: 12 Free CKEditor Plugins](https://dev.acquia.com/blog/supercharge-drupal-content-creation-12-free-ckeditor-plugins)
-- How We Made our Rich Text Editor Load Faster - [Part 1](https://ckeditor.com/blog/how-we-made-our-rich-text-editor-load-faster-part-1/) and [Part 2](https://ckeditor.com/blog/how-we-made-our-rich-text-editor-load-faster-part-2/)
-- [How we made CKEditor 40% Smaller: A Deep Dive into Bundle Size Optimization](https://ckeditor.com/blog/how-we-reduced-ckeditor-bundle-size/)
+## Guides
 
-<a name="videos" />
+- [Vanilla JS](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/quick-start.html) - Quick start guide for plain JavaScript projects.
+- [Next.js](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/next-js.html) - Guide for Next.js.
+- [Nuxt](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/nuxt.html) - Guide for Nuxt applications using the official Vue.js component.
+- [Svelte](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/svelte.html) - Guide for Svelte applications.
+- [Laravel](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/laravel.html) - Guide for Laravel (PHP)) applications.
+- [.NET](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/dotnet.html) - Guide for ASP.NET Core.
+- [Salesforce](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/salesforce.html) - Guide for Salesforce integration via Visualforce page.
+- [Spring Boot](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/spring-boot.html) - Guide for Java Spring Boot applications.
+- [Electron](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/electron.html) - Guide for Electron applications.
+- [jQuery](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/jquery.html) - Guide for jQuery-based web applications.
 
-## Videos
+## Licensing
 
-- [How To Build A Custom Invoice Generator with CKEditor 5: Step-By-Step Guide](https://www.youtube.com/watch?v=DqoVSDmvP-s)
-- [Building Google Docs clone with Python, JavaScript, CKEditor, Google Login, and more](https://www.youtube.com/watch?v=OGCE3OUO4G8)
-- [Using CKEditor in Drupal CMS, general guide](https://www.youtube.com/watch?v=0V_AW5ihu8o&t=443s)
-- [Create a Custom Text Editor using CKEditor 5 Builder in 5 Minutes](https://www.youtube.com/watch?v=7Pnlt1Y590Q)
-- [Level Up Your Drupal Content Editing with CKEditor Features](https://www.youtube.com/watch?v=joS1jCysapw)
-- [CKEditor 5 in Django admin 🇷🇺](https://www.youtube.com/watch?v=AkZwsDxTa0U)
-- [Integrating CKEditor 5 in Django, admin and on a page 🇮🇳](https://www.youtube.com/watch?v=ujQ1TBXSkfQ)
-- [Vue 3 integration 🇪🇸](https://www.youtube.com/watch?v=9khCXEfqEiQ)
-- [Using CKEditor 5 in Symfony 7 🇫🇷](https://www.youtube.com/watch?v=Qwubyuogcz0)
-- [CKEditor 5 image upload integration in Symfony 🇫🇷](https://www.youtube.com/watch?v=jUUGsCBwIJk)
-- [Using CKEditor 5 in Laravel + medical history app 🇪🇸](https://www.youtube.com/watch?v=4qNvgwS8I9A)
-- [Using CKEditor in Drupal CMS, general guide](https://www.youtube.com/watch?v=0V_AW5ihu8o&t=443s) 
-- [Case study in developing a custom CKEditor 5 Link plugin in Drupal](https://www.youtube.com/watch?v=_qeU7AN6zhI)
+Released under the [CC0 1.0 Universal](LICENSE) license.
 
-<a name="community-plugins" />
+---
 
-## Community plugins
+## Contributing
 
-- [Mermaid](https://github.com/ckeditor/ckeditor5-mermaid)
-- [CKEditor 5 footnotes](https://www.npmjs.com/package/ckeditor5-footnotes)
-- [Math equations](https://github.com/isaul32/ckeditor5-math)
-- [AI agent](https://github.com/dxpr/ckeditor5-ai-agent)
-- [Line height](https://github.com/rickx81/ckeditor5-line-height)
-- [Video uploader](https://github.com/alikhosravidev/ckeditor5-video-uploader)
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
