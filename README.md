@@ -20,6 +20,7 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [Plugins](#plugins)
 - [Developer tools](#developer-tools)
 - [Showcases](#showcases)
+- [Guides](#guides)
 - [Licensing](#licensing)
 
 ---
@@ -62,9 +63,25 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 
 ## Showcases
 
+- [CKEditor Official demos](https://github.com/ckeditor/ckeditor5-demos) - Official demos sources.
 - [CKEditor Collaboration Features Decomposed](https://github.com/ckeditor/devrel-collaboration-features-decomposed) - Demo showing iterative implementation of comments, track changes, and real-time editing.
+- [CKEditor Collaboration Samples](https://github.com/ckeditor/ckeditor5-collaboration-samples) - A collection of various configurations of the collaborations features in various frameworks.
 - [CKEditor AI Configuration and Customization Demo](https://github.com/ckeditor/devrel-ckeditor-ai-showcase-react) - React app demonstrating AI feature configuration and customization.
 - [Advanced CKEditor features Showcase](https://github.com/ckeditor/devrel-mlh-workshops-aug-2025) - Workshop project demonstrating custom plugins and template functionality.
+- [CKEditor Official Tutorials](https://github.com/ckeditor/ckeditor5-tutorials-examples) - Official tutorials sources.
+
+## Guides
+
+- [Vanilla JS](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/quick-start.html) - Quick start guide for plain JavaScript projects.
+- [Next.js](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/next-js.html) - Guide for Next.js.
+- [Nuxt](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/nuxt.html) - Guide for Nuxt applications using the official Vue.js component.
+- [Svelte](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/svelte.html) - Guide for Svelte applications.
+- [Laravel](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/laravel.html) - Guide for Laravel (PHP)) applications.
+- [.NET](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/dotnet.html) - Guide for ASP.NET Core.
+- [Salesforce](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/salesforce.html) - Guide for Salesforce integration via Visualforce page.
+- [Spring Boot](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/spring-boot.html) - Guide for Java Spring Boot applications.
+- [Electron](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/electron.html) - Guide for Electron applications.
+- [jQuery](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/jquery.html) - Guide for jQuery-based web applications.
 
 ## Licensing
 
@@ -74,4 +91,4 @@ Released under the [CC0 1.0 Universal](LICENSE) license.
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTIONS.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.

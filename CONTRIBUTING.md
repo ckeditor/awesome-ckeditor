@@ -31,10 +31,11 @@ You will need a [GitHub account](https://github.com/join)! If you are new to Git
 
 If you are not sure which section to use, the basic principal is:
 
-- Integration - You integrate CKEditor to the list item.
+- Integration - You integrate CKEditor to the technology/platform/framework.
 - Plugins - You extend CKEditor via [Plugin API](https://ckeditor.com/docs/ckeditor5/latest/framework/architecture/plugins.html)
 - Developer tools - You use them to develop CKEditor plugins and integrations.
 - Showcases - You use them to showcase/demo and CKEditor is in it.
+- Guides - Describe you on how to use CKEditor with the specific platform.
 
 ## Updating your Pull Request
 
@@ -44,4 +45,4 @@ Sometimes, a maintainer of an awesome list will ask you to edit your Pull Reques
 
 ## Issues with the pull request
 
-If you want to recommend a tutorial, integration, or any other useful resource that you found and you can't make a pull request, please feel free to create a [GitHub issue](https://github.com/ckeditor/awesome-ckeditor/issues/new) instead.
+If you want to recommend a guide, integration, or any other useful resource that you found and you can't make a pull request, please feel free to create a [GitHub issue](https://github.com/ckeditor/awesome-ckeditor/issues/new) instead.
