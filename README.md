@@ -4,7 +4,7 @@
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?logo=youtube)](https://www.youtube.com/c/CKEditor)
 [![LinkedIn](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f6cd62c/imgs/linkedin.svg)](https://www.linkedin.com/company/ckeditor)
 
-> A curated list of awesome projects and resources related to [CKEditor](https://ckeditor.com), an open source rich text editing component.
+> A curated list of awesome projects and resources related to [CKEditor 5](https://ckeditor.com), an open source rich text editing component.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/ckeditor_logo_white.png">
