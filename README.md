@@ -38,6 +38,7 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [Strapi](https://market.strapi.io/plugins/@ckeditor-strapi-plugin-ckeditor) - Official plugin for the Strapi headless CMS.
 - [Phoenix / Elixir](https://github.com/Mati365/ckeditor5-phoenix) - CKEditor integration for Phoenix and LiveView applications.
 - [Livewire / PHP](https://github.com/Mati365/ckeditor5-livewire) - Lightweight CKEditor integration for Laravel Livewire components.
+- [Symfony / PHP](https://github.com/Mati365/ckeditor5-symfony) - CKEditor integration for Symfony applications.
 - [Ruby on Rails](https://github.com/Mati365/ckeditor5-rails) - Ruby gem for integrating CKEditor into Rails applications via web components.
 - [Redaxo CMS](https://github.com/FriendsOfREDAXO/cke5) - CKEditor integration with customizable profiles and media management for Redaxo.
 - [Django CMS](https://github.com/django-cms/djangocms-text-ckeditor5) - CKEditor rich text editor frontend for the djangocms-text package.
