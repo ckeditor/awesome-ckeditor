@@ -37,6 +37,7 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
   - [TYPO3 CKEditor Pack](https://extensions.typo3.org/extension/rte_ckeditor_pack) - Extension providing a modern CKEditor build with accessibility tools and AI assistance.
 - [Strapi](https://market.strapi.io/plugins/@ckeditor-strapi-plugin-ckeditor) - Official plugin for the Strapi headless CMS.
 - [Phoenix / Elixir](https://github.com/Mati365/ckeditor5-phoenix) - CKEditor integration for Phoenix and LiveView applications.
+- [Blazor / .NET Core](https://github.com/Mati365/ckeditor5-blazor) - CKEditor integration for Blazor and .NET Core applications.
 - [Livewire / PHP](https://github.com/Mati365/ckeditor5-livewire) - Lightweight CKEditor integration for Laravel Livewire components.
 - [Symfony / PHP](https://github.com/Mati365/ckeditor5-symfony) - CKEditor integration for Symfony applications.
 - [Ruby on Rails](https://github.com/Mati365/ckeditor5-rails) - Ruby gem for integrating CKEditor into Rails applications via web components.
