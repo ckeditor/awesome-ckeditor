@@ -5,12 +5,13 @@
 [![LinkedIn](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f6cd62c/imgs/linkedin.svg)](https://www.linkedin.com/company/ckeditor)
 
 > A curated list of awesome projects and resources related to [CKEditor 5](https://ckeditor.com), an open source rich text editing component.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/ckeditor_logo_white.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/ckeditor_logo.png">
-  <img alt="CKEditor logo" src="./assets/ckeditor_logo.png" align="right" width="30%" height="30%">
-</picture>
+<a href="https://ckeditor.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/ckeditor_logo_white.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/ckeditor_logo.png">
+    <img alt="CKEditor logo" src="./assets/ckeditor_logo.png" align="right" width="30%" height="30%">
+  </picture>
+</a>
 
 CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom data model, and virtual DOM, written from scratch in TypeScript with support for modern bundlers. It provides every type of WYSIWYG editing solution imaginable with extensive collaboration support. From editors similar to Google Docs and Medium to Slack or Twitter-like applications, all is possible within a single editing component.
 
