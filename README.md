@@ -80,7 +80,7 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [Next.js](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/next-js.html) - Guide for Next.js.
 - [Nuxt](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/nuxt.html) - Guide for Nuxt applications using the official Vue.js component.
 - [Svelte](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/svelte.html) - Guide for Svelte applications.
-- [Laravel](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/laravel.html) - Guide for Laravel (PHP)) applications.
+- [Laravel](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/laravel.html) - Guide for Laravel (PHP) applications.
 - [.NET](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/dotnet.html) - Guide for ASP.NET Core.
 - [Salesforce](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/salesforce.html) - Guide for Salesforce integration via Visualforce page.
 - [Spring Boot](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/spring-boot.html) - Guide for Java Spring Boot applications.
