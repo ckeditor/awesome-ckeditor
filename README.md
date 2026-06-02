@@ -51,12 +51,12 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 
 ## Plugins
 
-- [Mermaid](https://github.com/ckeditor/ckeditor5-mermaid) - Plugin for embedding and displaying Mermaid diagrams.
-- [CKEditor footnotes](https://www.npmjs.com/package/ckeditor5-footnotes) - Plugin for adding footnote references and content to documents.
-- [Math equations](https://github.com/isaul32/ckeditor5-math) - TeX-based plugin for inserting mathematical equations via MathJax or KaTeX.
-- [AI agent](https://github.com/dxpr/ckeditor5-ai-agent) - Plugin for integrating AI-assisted text generation using various models.
-- [Line height](https://github.com/rickx81/ckeditor5-line-height) - Plugin for adjusting text line spacing in the editor.
-- [Video uploader](https://github.com/alikhosravidev/ckeditor5-video-uploader) - Plugin for uploading and embedding videos directly in the editor.
+- [Mermaid](https://github.com/ckeditor/ckeditor5-mermaid) - Embeds and renders Mermaid diagrams.
+- [CKEditor footnotes](https://www.npmjs.com/package/ckeditor5-footnotes) - Footnote references and content in documents.
+- [Math equations](https://github.com/isaul32/ckeditor5-math) - TeX-based math equations rendered via MathJax or KaTeX.
+- [AI agent](https://github.com/dxpr/ckeditor5-ai-agent) - AI-assisted text generation using various LLM models.
+- [Line height](https://github.com/rickx81/ckeditor5-line-height) - Text line-height adjustment.
+- [Video uploader](https://github.com/alikhosravidev/ckeditor5-video-uploader) - Video uploading and embedding.
 
 ## Developer tools
 
