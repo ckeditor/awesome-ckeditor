@@ -1,9 +1,5 @@
 # Awesome CKEditor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Star CKEditor](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social)](https://github.com/ckeditor/ckeditor5)
-[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?logo=youtube)](https://www.youtube.com/c/CKEditor)
-[![LinkedIn](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f6cd62c/imgs/linkedin.svg)](https://www.linkedin.com/company/ckeditor)
-
 > A curated list of awesome projects and resources related to [CKEditor 5](https://ckeditor.com), an open source rich text editing component.
 <a href="https://ckeditor.com">
   <picture>
@@ -13,7 +9,7 @@
   </picture>
 </a>
 
-CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom data model, and virtual DOM, written from scratch in TypeScript with support for modern bundlers. It provides every type of WYSIWYG editing solution imaginable with extensive collaboration support. From editors similar to Google Docs and Medium to Slack or Twitter-like applications, all is possible within a single editing component.
+CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom data model, and virtual DOM, written from scratch in TypeScript with support for modern bundlers. It provides every type of WYSIWYG editing solution imaginable with extensive collaboration support. From editors similar to Google Docs and Medium to Slack or Twitter-like applications, all is possible within a single editing component. Setup instructions for plain JavaScript and frameworks such as Next.js, Nuxt, Svelte, Laravel, .NET, or Electron are covered by the [official installation guides](https://ckeditor.com/docs/ckeditor5/latest/getting-started/index.html).
 
 ## Contents <!-- omit from toc -->
 
@@ -21,8 +17,6 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [Plugins](#plugins)
 - [Developer tools](#developer-tools)
 - [Showcases](#showcases)
-- [Guides](#guides)
-- [Licensing](#licensing)
 
 ---
 
@@ -45,7 +39,6 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [Redaxo CMS](https://github.com/FriendsOfREDAXO/cke5) - CKEditor integration with customizable profiles and media management for Redaxo.
 - [Django CMS](https://github.com/django-cms/djangocms-text-ckeditor5) - CKEditor rich text editor frontend for the djangocms-text package.
 - [Django](https://github.com/hvlads/django-ckeditor-5) - CKEditor form field and widget for Django applications.
-- [Cosmos CMS](https://github.com/MoonriseSoftwareCalifornia/CosmosCMS) - Open source .NET content management system built for Microsoft Azure.
 - [Laravel Nova](https://github.com/mostafaznv/nova-ckeditor) - CKEditor field with enhanced media management for Laravel Nova.
 - [Vaadin Flow Java](https://github.com/wontlost-ltd/vaadin-litelement-ckeditor) - CKEditor integration for Vaadin Flow Java web applications.
 
@@ -61,8 +54,8 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 ## Developer tools
 
 - [CKEditor Builder](https://ckeditor.com/ckeditor-5/builder/) - Online tool to configure and generate custom CKEditor builds.
-- [CKEditor Package Generator](https://ckeditor.com/docs/ckeditor5/latest/framework/develpment-tools/package-generator/using-package-generator.html) - CLI tool for scaffolding CKEditor plugin packages.
-- [CKEditor Inspector](https://ckeditor.com/docs/ckeditor5/latest/framework/develpment-tools/inspector.html) - Browser DevTools extension for debugging CKEditor internals.
+- [CKEditor Package Generator](https://ckeditor.com/docs/ckeditor5/latest/framework/development-tools/package-generator/using-package-generator.html) - CLI tool for scaffolding CKEditor plugin packages.
+- [CKEditor Inspector](https://ckeditor.com/docs/ckeditor5/latest/framework/development-tools/inspector.html) - Browser DevTools extension for debugging CKEditor internals.
 
 ## Showcases
 
@@ -73,23 +66,6 @@ CKEditor is a modern JavaScript rich-text editor with MVC architecture, custom d
 - [Advanced CKEditor features](https://github.com/ckeditor/devrel-mlh-workshops-aug-2025) - Workshop project demonstrating custom plugins and template functionality.
 - [CKEditor Official Tutorials](https://github.com/ckeditor/ckeditor5-tutorials-examples) - Official tutorials sources.
 - [Plotly.js](https://github.com/Simply007/ckeditor5-plotly-widget-showcase) - Chart library demo persisting data in the editor content and rendering charts as a CKEditor widgets.
-
-## Guides
-
-- [Vanilla JS](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/quick-start.html) - Quick start guide for plain JavaScript projects.
-- [Next.js](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/next-js.html) - Guide for Next.js.
-- [Nuxt](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/nuxt.html) - Guide for Nuxt applications using the official Vue.js component.
-- [Svelte](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/svelte.html) - Guide for Svelte applications.
-- [Laravel](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/laravel.html) - Guide for Laravel (PHP) applications.
-- [.NET](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/dotnet.html) - Guide for ASP.NET Core.
-- [Salesforce](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/salesforce.html) - Guide for Salesforce integration via Visualforce page.
-- [Spring Boot](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/spring-boot.html) - Guide for Java Spring Boot applications.
-- [Electron](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/electron.html) - Guide for Electron applications.
-- [jQuery](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/jquery.html) - Guide for jQuery-based web applications.
-
-## Licensing
-
-Released under the [CC0 1.0 Universal](LICENSE) license.
 
 ---
 
